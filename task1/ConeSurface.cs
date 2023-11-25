@@ -4,14 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        int radius=0, slant = 0;     
-        
-        
+        int radius=0, slant = 0;   
         Console.WriteLine("Calculating the surface area of cone \n input radius \n");
         Console.WriteLine("Input radius");
         while (radius==0)
         {            
-             Console.Write("r=");
+            Console.Write("r=");
             radius = CheckInput();
         }
 
@@ -22,7 +20,7 @@ class Program
             slant = CheckInput();
         }
 
-        Console.WriteLine("Cone suface = " + Math.PI*radius*(radius+slant));
+        Console.WriteLine("Cone surface = " + Math.PI*radius*(radius+slant));
         Console.ReadKey();
 
         int CheckInput()
@@ -33,12 +31,9 @@ class Program
                 {
                     return output;
                 }
-                Console.WriteLine("Wron value");
+                Console.WriteLine("Wrong value");
                 return 0;
-                
-
-        }
-
+            }
     }
 }
 

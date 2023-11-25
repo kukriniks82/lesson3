@@ -9,7 +9,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Let's try to find biggest division)");
-        Console.WriteLine("enter numbers\n For stop adding'Q'");
+        Console.WriteLine("enter numbers\n For stop adding 'Q'");
         string input = "";
         List<int> numbers = new List<int>(); //store entered number there
         int greatestDivision = 0;
@@ -53,11 +53,10 @@ class Program
                 greatestDivision = tempDivision;
             }
             count++;
-            System.Console.WriteLine(   nameof(greatestDivision) + " = " + greatestDivision);
+            System.Console.WriteLine(nameof(greatestDivision) + " = " + greatestDivision);
         }
 
-
-        System.Console.WriteLine(   "You added those numbers");
+         System.Console.WriteLine("You added those numbers");
             for (int i = 0; i < numbers.Count; i++)
             {
                 Console.Write(numbers[i] + "\t");                
@@ -65,9 +64,6 @@ class Program
             Console.WriteLine();
         System.Console.WriteLine("GreatestDivision = " + greatestDivision);
         
-
-       // Console.ReadLine();
-
         int GreatestDivision (int firstNumber, int secondNumber)
         {            
                 while (secondNumber!=0)

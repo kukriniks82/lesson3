@@ -10,11 +10,9 @@ while(true)
     int digit = CheckInput(input) ;
     if (digit>99 & digit<1000)
     {
-        System.Console.WriteLine("Your number consist of:");
- 
+        System.Console.WriteLine("Your number consist of:"); 
             System.Console.WriteLine(input[input.Length-1] + " units");
             System.Console.WriteLine(input[input.Length-2] + " tens");
-
             int sum=0;
             int mult=1;
         for (int i = 0; i < input.Length; i++)
@@ -30,13 +28,12 @@ while(true)
         Console.WriteLine("Wrong value");
     }
 }
-
         int CheckInput(string input)
         {            
             bool isCorrectInput = Int32.TryParse(input, out int output);
-            if (isCorrectInput /*& output != 0*/)
+            if (isCorrectInput)
             {
-                return output;
+                return Math.Abs(output);
             }
             Console.WriteLine("Wrong value");
             return 0;
