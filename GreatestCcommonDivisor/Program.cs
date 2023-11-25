@@ -11,9 +11,9 @@ class Program
         string input = "";
         List<int> numbers = new List<int>();
         int gratestDivision = 0;
+
         while (input != "Q")
-        {
-        
+        {        
             input = Console.ReadLine();
             if (input != "Q")
             {
@@ -27,29 +27,24 @@ class Program
         }
 
         for (int i = 0; i < numbers.Count -1; i++)
-        {
-            Console.WriteLine(numbers[i]);
+        {            
             gratestDivision = GratestDivision(numbers[i], numbers[i + 1]);
+            System.Console.WriteLine(gratestDivision);
         }
         
 
-        Console.ReadLine();
+       // Console.ReadLine();
 
-        int GratestDivision (int firstNumder, int secondNumber)
-        {
-            if (firstNumder > secondNumber)
-            {
-                int div = firstNumder;
-                int grandDiv=0;
-                while (div!=0)
+        int GratestDivision (int firstNumber, int secondNumber)
+        {            
+                while (secondNumber!=0)
                 {
-                   
-
-                }
-                gratestDivision = grandDiv;
-            }
-
-            return gratestDivision;
+                  var temp = secondNumber;
+                  secondNumber = firstNumber % secondNumber;
+                  firstNumber = temp;
+                }    
+            
+            return firstNumber;
         }
 
         int CheckInput(string input)
