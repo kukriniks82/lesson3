@@ -1,0 +1,15 @@
+/Users/admin/Projects/lesson3/Task7_additionl/bin/Debug/net7.0/Task7_additionl
+/Users/admin/Projects/lesson3/Task7_additionl/bin/Debug/net7.0/Task7_additionl.deps.json
+/Users/admin/Projects/lesson3/Task7_additionl/bin/Debug/net7.0/Task7_additionl.runtimeconfig.json
+/Users/admin/Projects/lesson3/Task7_additionl/bin/Debug/net7.0/Task7_additionl.dll
+/Users/admin/Projects/lesson3/Task7_additionl/bin/Debug/net7.0/Task7_additionl.pdb
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.csproj.AssemblyReference.cache
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.AssemblyInfoInputs.cache
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.AssemblyInfo.cs
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.dll
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/refint/Task7_additionl.dll
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.pdb
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/Task7_additionl.genruntimeconfig.cache
+/Users/admin/Projects/lesson3/Task7_additionl/obj/Debug/net7.0/ref/Task7_additionl.dll

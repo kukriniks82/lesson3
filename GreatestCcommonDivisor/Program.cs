@@ -1,6 +1,6 @@
 ﻿//using static System.Runtime.InteropServices.JavaScript.JSType;
 
-using System.Globalization;
+
 
 namespace GreatestCommonDivisor;
 
@@ -42,7 +42,7 @@ class Program
 
         greatestDivision = GreatestDivision(numbers[0], numbers[numbers.Count-1]); /*take  Max and Min value find potentially needed division
         then will check other value with received division */        
-        System.Console.WriteLine("Max number " + numbers[0] + "\t" + "Min number" + numbers[numbers.Count-1]); 
+        System.Console.WriteLine("Max number " + numbers[0] + "\t" + "Min number " + numbers[numbers.Count-1]); 
         
         int count = 1;
         while(greatestDivision!=1 && count < numbers.Count-1)
