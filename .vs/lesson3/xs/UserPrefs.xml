@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{B149DE32-3C11-454E-BB1D-76AD80E70095}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../MyFirstSolution/MySecondConsole/Program.cs" line="26" column="16" endLine="26" endColumn="23" offsetX="-1" offsetY="-1" expression="avarage" liveUpdate="False" />
+    <Watch file="../../../lesson3/Program.cs" line="6" column="12" endLine="6" endColumn="20" offsetX="-1" offsetY="-1" expression="radius" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Projects/lesson3/GreatestCcommonDivisor/Program.cs" relfile="GreatestCcommonDivisor/Program.cs" line="49" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.task4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task6__Additional PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.task3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GreatestCcommonDivisor/Program.cs">
+    <Files>
+      <File FileName="lesson3/Program.cs" Line="28" Column="1" />
+      <File FileName="task2/Program.cs" Line="27" Column="52" />
+      <File FileName="task3/Program.cs" Line="12" Column="76" />
+      <File FileName="task4/Program.cs" Line="22" Column="28" />
+      <File FileName="task5/Program.cs" Line="12" Column="1" />
+      <File FileName="GreatestCcommonDivisor/Program.cs" Line="46" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lesson3" expanded="True">
+            <Node name="task1" expanded="True" />
+            <Node name="task2" expanded="True" />
+            <Node name="task3" expanded="True" />
+            <Node name="task4" expanded="True" />
+            <Node name="task6_Additional">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>tempDigit</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/bin/Debug/net7.0/task6_Additional
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/bin/Debug/net7.0/task6_Additional.deps.json
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/bin/Debug/net7.0/task6_Additional.runtimeconfig.json
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/bin/Debug/net7.0/task6_Additional.dll
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/bin/Debug/net7.0/task6_Additional.pdb
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.csproj.AssemblyReference.cache
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.AssemblyInfoInputs.cache
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.AssemblyInfo.cs
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.dll
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/refint/task6_Additional.dll
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.pdb
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/task6_Additional.genruntimeconfig.cache
+/Users/admin/Projects/lesson3/GreatestCcommonDivisor/obj/Debug/net7.0/ref/task6_Additional.dll
